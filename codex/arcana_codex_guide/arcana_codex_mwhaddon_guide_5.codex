@@ -1,0 +1,67 @@
+{
+  "id" : "arcana_codex_mwhaddon_guide_5",
+  "title" : "GEG - ^yellow;Mirage Stars^reset;",
+  "description" : "'Galaxy Exploration Guide' series by Ankhu. This one is about Mirage Stars.",
+  "icon" : "arcana_codex_mwhaddon_guide.png",
+  "contentPages" :
+  [
+"^orange;Mirage stars^white; are one of the stars infused by what we Arcanian called 'Elements', with a pink spherical appearance. They are the last galaxy recommend to explore.
+Mirage stars are commonly believed to be shaped by ^orange;Mirage Essence^white;, an essence so rare that some scholars still debate its existence today.
+",
+
+
+"The stars feature five different kind of unique planets: ^#c38166;Amorous^white;, ^#c3483a;Vermilion^white;, ^#e951d3;Ruinous^white;, ^#dcd4b7;Empyrean^white; and ^#a50909;Red Terminus^white;.
+Except ^#dcd4b7;Empyrean^white;, all of these planets will have ^orange;Cataclysm^white; on explorers, greatly lose their lives. Respective protection, such as EPP, is required to nullify the effect.
+",
+
+
+"^#c38166;Amorous^white;
+
+^#c38166;Amorous^white; is a lush planet bathed in eternal sunset, rich in gems and other luxury resources. Many nobles have settled here for the planet's beautiful rivers and skies.
+Nothing special's about these planets.
+",
+
+
+"^#c3483a;Vermilion^white;
+
+^#c3483a;Vermilion^white; is occupied by an dictatorship called Exousian. The planet is specially infused with ^orange;Vermilion Essence^white;.
+Three different kind of ores are buried beneath the crimson forests as follows: ^#e06d60;Rufescites^white;, ^#525252;Exoslate Fragments^white; and ^#dedede;Enartz Fragment^white;. 
+",
+
+
+"^#e951d3;Ruinous^white;
+
+Infected by the influence of World Horizon, ^#e951d3;Ruinous^white; is now engulfed with air of blight and catastrophe. The entire planet's surface has been encased in shadows, leaving the skies in eternal darkness. ^#d03ad7;Horizon Fleets^reset; have set up camps here to conduct research on ancient relics.
+",
+
+
+"A magic ore can be found in the underground of ^#e951d3;Ruinous^white; named ^#ffa5fe;Super Star^white;. These magical minerals are light in mass and seem to work miraculously in curbing Ruinous water.
+",
+
+
+"^#dcd4b7;Empyrean^white;
+
+^#dcd4b7;Empyrean^white; is covered by beautiful lakes and golden forests and treated by Giltens as their home. It's said that access to ^#dcd4b7;Empyrean^white; is strictly limited. 
+",
+
+
+"Some ^orange;Ark Fragments^white; can be found in Gilten's sanctuary, an important material utilized by them. On top of that, it's rumored that Aurea Collection's facilities can be found there as well.
+",
+
+
+"^#a50909;Red Terminus^white;
+
+^#a50909;Red Terminus^white; is a planet with shattered landscape resembling the end of the world. Few even dare to venture there, so we know very little about it till tody. 
+",
+
+
+"^yellow;By the end of this book, I would like to express my gratitude to a protector friend of mine.
+Without their help, this series would be nothing.
+
+- Ankhu"
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 1000
+  }
+}

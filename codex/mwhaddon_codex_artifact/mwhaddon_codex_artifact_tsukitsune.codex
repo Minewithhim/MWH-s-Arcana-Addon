@@ -1,0 +1,22 @@
+{
+  "id" : "mwhaddon_codex_artifact_tsukitsune",
+  "title" : "^yellow;Artifact^reset; - ^#8f82e9;Tsukitsune^reset;",
+  "description" : "The story of an artifact.",
+  "icon" : "icon.png",
+  "contentPages" : [
+"Stories of Lunar deities have been told in those Hylotl clans since ancient times. But few have ever really seen one of these gods. They believe the gods will talk to them if they manage to reach their absolute inner peace. Once they have reached a certain level of inner spirituality, the gods will resonate with them and imbue them with great power both physically and spiritually.
+",
+
+"But there will always be those who would take such power in an unorthodox way. They tried various way to imbuse Lunar Essence into devastating arsenals, and as it should be, no one succeeded. Their impatience made them stop to try something else before long.
+Yet there was still one apprentice, revamping the way of imbusing persistently. The time he spent was in no way shorter than that of those lunar samurais spent in practice.
+",
+
+"Regardless of his intention, the lunar deities seemed to recognize him. On a full moon night when the exhausted boy was in his late sleep, the soft light poured onto one blastrifle of a dead flame monster. And then, came the Tsukitsune.
+"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 100
+  }
+}

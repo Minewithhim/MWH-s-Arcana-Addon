@@ -1,0 +1,16 @@
+[
+  {
+    "op" : "add",
+	"path" : "/mwhaddon_ultimate_truth",
+	"value" : {
+	  "resistanceStat" : "mwhaddon_ultimate_truthResistance",
+      "damageNumberParticles" : {
+        "hit" : "mwhaddon_ultimate_truthdamagenumber",
+        "stronghit" : "mwhaddon_ultimate_truthdamagenumberstrong",
+        "weakhit" : "mwhaddon_ultimate_truthdamagenumberweak",
+        "shieldhit" : "mwhaddon_ultimate_truthdamagenumber",
+        "kill" : "mwhaddon_ultimate_truthdamagenumber"
+      }
+	}
+  }
+]

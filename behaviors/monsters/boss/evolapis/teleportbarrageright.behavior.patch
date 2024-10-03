@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "op" : "test",
+            "path" : "/root/children/10/children/2/children/0/children/4/child/children/6/parameters/projectileType/value",
+            "value" : "evolapisspikeghostly"
+        },
+        {
+            "op" : "replace",
+            "path" : "/root/children/10/children/2/children/0/children/4/child/children/6/parameters/projectileConfig/value/power",
+            "value" : 40
+        },
+        {
+            "op" : "replace",
+            "path" : "/root/children/10/children/2/children/0/children/4/child/children/8/parameters/time/value",
+            "value" : 0.015
+        },
+        {
+            "op" : "replace",
+            "path" : "/root/children/7/parameters/time/value",
+            "value" : 0.15
+        }
+    ]
+]

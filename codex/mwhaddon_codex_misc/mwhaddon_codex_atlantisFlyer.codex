@@ -1,0 +1,21 @@
+{
+  "id" : "mwhaddon_codex_atlantisFlyer",
+  "title" : "Get the Premium Pass!",
+  "description" : "This flyer tells about the Premium Pass of Atlantis Bar.",
+  "icon" : "mwhaddon_codex_atlantisFlyer.png",
+  "contentPages" : [
+    "Greetings, Atlantis' loyal customers. Good news for you! Atlantis has launched a new Premium Pass mechanism!
+
+After you subscribe our Premium Pass. All of our chain stores will offer you a whole new range of drinks, including Abyssal Reef and Beast Slaughter! And you will receive notification when we are promoting!
+",
+
+"^yellow;How to subscribe Premium Pass?^white;
+
+The mechanism is still in testing, so only a few customers can enjoy the service at the begining. For now, we only accept new Premium Pass subscribers invited by another Premium Pass subscriber. But as the mechanism progresses, we will relax the restriction and open it to everyone! 
+"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 5
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id" : "mwhaddon_codex_keepAwayFromDelta",
+  "title" : "Someone's diary",
+  "description" : "Diary of a frustrated Arcanian scholar. Seems to fall here in accident.",
+  "icon" : "/codex/human/humancover1.png",
+  "contentPages" : [
+    "For any scholar and friend, remember, always keep away from the planet of Delta Hakuuqi!",
+
+
+"Floran of Delta Hakuuqi are famous for their ingenious plant-form technology and coincidentally, I, Camille, happens to be an Arcanian scholar studies in technology in a varity of forms. So I made up my mind and reach their village in Delta last month in order to study their technology.",
+
+
+"Those floran were friendly at first and showed me lots of amazing technology that caught my eyes. But I'm more interested in learning about something truly remarkable, something like the giant elk made of vines that served as the usual travelling mount of their Greenfinger.
+
+I had the audacity to propose the idea of trying to reproduce one such mount, and the Greenfinger did give me the permission to do so. Since then I've been working hard to reproduce it.",
+
+
+"During that time, I've asked for information about the mount quite a few times, but the information it gave was hardly useful, let alone an in-depth insight at their technology. After two weeks of hard work, I finally built an elk fairly close to the original one in both appearance and function.
+
+Though it was at best a replica of the existing one, and I'd gained no useful information from making it, I still considered it a work I was proud of, and I brought it out to display it in the village...",
+
+
+"...And little did I know that it soon became the beginning of my nightmare.",
+
+
+"The Greenfinger was so furious at the sight of my work that it berated me for plagiarizing their culture, sent Floran to surround my residence and escorting me to their square. I was tied to the woodpile with a dumbfounded look on my face, powerless to bear the pressure of the Greenfinger. 
+
+\"You allowed me to reproduce one!\" I argued. ",
+
+
+"\"Yes, but I never allowed you to copy its outlook.\" said the Greenfinger.
+
+\"Wait, did you mean that the permission of reproduction didn't include reproducing its appearance? Eureka! There must be some kind of misunde...\" 
+
+\"So you can just plunder our culture in the name of reproduction, don't you? How dare you!\"",
+
+
+"I almost fainted when I saw those Floran downstairs were even agreeing to that ridiculous statement.
+
+And then they told me a lot about how plants are part of their culture and what they mean to their lives. But I didn't care at all, more than that I just wanted to get out as soon as possible.",
+
+
+"\"Yes, you were right.\" I said, \"I shouldn't have plagiarized your culture, and I promise I never will again.\"
+
+Seeing that I'd apologised, the Greenfinger finally took the edge off and released me.",
+
+
+"I returned helplessly to my residence, only to find that it was already in shambles. Numerous precious documents I'd previously carried with me had been destroyed in the earlier arrest.
+
+Crushed and angry, I pressed my anger to find the Greenfinger again in the hope that it would compensate me for the losses I had previously suffered as a result of its orders.",
+
+
+"\"Those documents to me are just as plants to you.\" I told the Greenfinger.
+
+It listened and first expressed its apology for my loss. Then it told me that if I stayed and continued my studies here, the knowledge I gained will make up for my loss. It left after saying that, leaving an Arcanian scholar almost fainted again.",
+
+
+"The Greenfinger wanted me to find a way to make up for the damage to me caused by ITS very behavior by MYSELF? I'd never heard such nonsense in my entire life.
+
+I looked around at those Floran, each of whom glared at me as if they were about to eat me at any moment (not until this time did I realize that Floran is a savage species as always). It was questionable whether I could even survive if they treated me like this, letting alone stay and study.",
+
+
+"I returned to what was my residence, packed up everything that was still intact, and left unnoticed. I managed to catch the latest passenger spaceship to Zhushi Pond, where a merchant told me there would soon be a flight back to the Great Library. ",
+
+
+"I wasn't prejudiced against any species. Yet it did turn out that, despite their seemingly advanced plant-form tech, Floran of Delta Hakuuqi are no more than arrogant, impertinent savages.
+
+I did have done one thing wrong, that's being silly enough to even have contact with such barbarians.",
+
+
+"I have nothing with me now. No food, no knowledge, no documents, no pixel, but this notebook. Hoping that I can at least return to the Great Library safe and sound, I wrote this diary while waiting for the flight to remind myself, my colleagues and friends of nothing but one: always keep away from Delta Hakuuqi!"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

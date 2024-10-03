@@ -1,0 +1,81 @@
+{
+  "id" : "arcana_codex_mwhaddon_guide_4",
+  "title" : "GEG - ^yellow;Tripolar Stars^reset;",
+  "description" : "'Galaxy Exploration Guide' series by Ankhu. This one is about Tripolar Stars.",
+  "icon" : "arcana_codex_mwhaddon_guide.png",
+  "contentPages" :
+  [
+"^orange;Tripolar stars^white; are one of the stars infused by what we Arcanian called 'Elements'. Recommend to explore when you have completed your exploration in Superstorm Stars.
+Tripolar stars feature six different kind of unique planets: ^#ec9858;Solarized^white;, ^#9ec450;Bamboo Forest^white;, ^#e4c6ff;Eminsnow^white;, ^#f8bcc8;Senbonzakura^white;, ^#e7c475;Azure Desert^white; and ^#84cede;Azure Sea^white;.
+",
+
+
+"The stars are dominated by three celestial elementals: ^orange;Solar Essence^white;, ^orange;Lunar Essence^white; and ^orange;Azure Essence^white;, with numerous basic elementals sheltered among these planets.
+Theses celestial elementals can arouse a phenomenon named ^green;Celestial Corridor^white;, which will be discussed at the end of this book.
+",
+
+
+"Deeply underneath the ground of some planets there you can find three unique minerals: ^#c64544;Aspirite^white;, ^#417b45;Noxion^white; and ^#6574c1;Immorite^white;. Each will drop ^orange;Intima Essence^white;, ^orange;Poison Essence^white; or ^orange;Anima Essence^white;.
+All of these planets will have ^orange;Cataclysm^white; on explorers, greatly lose their lives. Respective protection methods, such as EPP, is required to nullify the effect.
+",
+
+
+"^#ec9858;Solarized^white;
+
+^#ec9858;Solarized^white; is an orange forest planet of heat. ^#ec9858;Atumium ores^white; can be discovered there.
+Sometimes you may find a ravine full of solid cloud and yellow spikes called ^orange;Daybroken^white;, one of the few places to find ^#8e8d8d;Sceantine^white;, a rare mineral.
+",
+
+
+"^#9ec450;Bamboo Forest^white;
+
+^#9ec450;Bamboo Forest^white; is just as the name suggests, covered by green bamboos. Nothing special about it other than that.
+Giant shadow spires can be spotted both in ^#ec9858;Solarized^white; and ^#9ec450;Bamboo Forest^white;, with a portal to a ^green;Solar Corridor^white; at their tops.
+",
+
+
+"^#e4c6ff;Eminsnow^white;
+
+^#e4c6ff;Eminsnow^white; is a beautiful purple planet covered in soft snow. It's the origin of ^orange;Cerulean Roll^white;, a famous fruit snack.
+^#e4c6ff;Luminarium Ores^white; are found exclusively in these planets.
+",
+
+
+"Sometimes you may find a ^orange;ruined castle^white; on one of theses planet. Those castles are heavily eroded by ^orange;Lunar Essence^white;, manifested in the form of a ^cyan;terrible creature^white; that has taken over the place.
+",
+
+
+"^#f8bcc8;Senbonzakura^white;
+
+^#f8bcc8;Senbonzakura^white; is a planet full of cherry blossom. The planet's name is a reference to a famous Hylotl song. Nothing special about it other than that.
+A ^orange;shrine^white; guarded by Hylotl can be found in both ^#e4c6ff;Eminsnow^white; and ^#f8bcc8;Senbonzakura^white;, where you will find a portal to a ^green;Lunar Corridor^white;.
+",
+
+
+"^#e7c475;Azure Desert^white;
+
+Most Arcanian choose to live in ^#e7c475;Azure Deserts^white; now, as these desert planets resemble their former home most.
+The metal they use is produced by smelting a local mineral called ^#4bb4ca;Azurium Ore^white;.
+",
+
+
+"^#84cede;Azure Sea^white;
+
+The ^#84cede;Azure Seas^white; were residence for an ancient civilization, as many great palaces still stand under the sea. A portal to a ^green;Azure Corridor^white; can be found at the top of every palace.
+",
+
+
+"The ^#fce691;Oceanite^white; native to these planets is still the most used building material for Arcanian. They even have managed to reproduce them only by using water, gold and iron.
+",
+
+
+"^green;Celestial Corridor^white;
+
+In short, ^green;Celestial Corridors^white; are distortions aroused by celestial elementals. Three types of ^green;Celestial Corridors^white; exist: ^green;Solar^white;, ^green;Lunar^white; and ^green;Azure^white;. Each differs in its risk level and respective essence can be harvested in these corridors.
+"
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 1000
+  }
+}

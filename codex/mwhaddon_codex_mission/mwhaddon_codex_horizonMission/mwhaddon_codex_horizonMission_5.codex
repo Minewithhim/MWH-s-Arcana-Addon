@@ -1,0 +1,19 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_5",
+  "title" : "Ship log #4078",
+  "description" : "Log of this ship, looks like it was created some day ago.",
+  "icon" : "mwhaddon_codex_horizonMission_1.png",
+  "contentPages" : [
+    "It's over now.
+
+I'll be sent to the tribunal sooner or later. But still I have something I can dedicate to Horizon.",
+
+    "Exousians... Protector...
+    
+^red;ALL OF YOU, SHALL PAY THE PRICE, BEFORE EXECRATIONS CRUSH YOUR BELOVED WORLD.^reset;"
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

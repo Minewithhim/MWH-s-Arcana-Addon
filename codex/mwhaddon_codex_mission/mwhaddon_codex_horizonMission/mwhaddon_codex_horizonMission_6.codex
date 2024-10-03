@@ -1,0 +1,21 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_6",
+  "title" : "Manufacturing Report",
+  "description" : "Paper report about a construction facility.",
+  "icon" : "mwhaddon_codex_horizonMission_6.png",
+  "contentPages" : [
+    "I know that all of you care the conclusions, so let's just start from the end.
+    
+The fact is, it's impossible to reproduce the Highmind on Execration.",
+
+"We all know that despite Exousia's prohibition on highly advanced AI, Exousian technology, rather than Orion's, is the key to what we want. The proof is that all we've done on Execration based on Orion technology had never meet our expectation.",
+
+"Fortunately, recent iterations still managed to show enough intelligence and destructive power, that's why we finally decided to give up on reproducing the Highmind.",
+
+"Once these iterations pass the test, we can ramp up production. Then, we will be one step closer to our ideal universe."
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

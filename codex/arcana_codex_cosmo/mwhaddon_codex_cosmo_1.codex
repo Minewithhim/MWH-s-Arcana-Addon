@@ -1,0 +1,14 @@
+{
+  "id" : "mwhaddon_codex_cosmo_1",
+  "title" : "Corridors Positioning",
+  "description" : "A guidebook about locations of Celestial Corridors.",
+  "icon" : "arcana_codex_cosmo_1.png",
+  "contentPages" :
+  [
+"The entrance of Celestial Corridors are often spotted in various of planets in Tripolar Stars. Solar ones in Solarized and Bamboo Forest, Lunar ones in Eminsnow and Senbozakura, and Azure ones in Azure Sea."
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 100
+  }
+}

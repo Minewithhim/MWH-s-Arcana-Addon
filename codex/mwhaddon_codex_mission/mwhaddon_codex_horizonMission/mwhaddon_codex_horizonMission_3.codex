@@ -1,0 +1,28 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_3",
+  "title" : "Mining Report",
+  "description" : "A paper report about some mining operation.",
+  "icon" : "mwhaddon_codex_horizonMission_3.png",
+  "contentPages" : [
+    "Base number: ^yellow;PEAE066^reset;
+Planet ref: ^yellow;#BSA-T4357^reset;
+
+Report ref: ^yellow;PEAE066-W04D02-R01^reset;
+Progression: ^green;On schedule^reset;
+",
+
+"It's been exactly 30 days since we found this Ancient ruin on this planet and set up base over it. Excavation progress, as always, is the same as planned.
+If all goes well, we'll be able to complete all the excavation work within the planned timeframe.
+",
+
+"I'm requesting a suspension of my regular reporting on W04D06. I'm going to visit the factory that day, where the Project Execration is mainly held.",
+
+"It's always heartening to learn about the things we can fight alongside, and it can encourage my people to work more efficiently as well.
+
+All for the Horizon!"
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

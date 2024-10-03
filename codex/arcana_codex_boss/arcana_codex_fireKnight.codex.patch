@@ -1,0 +1,21 @@
+[
+    [
+        {
+            "op" : "test",
+            "path" : "/itemConfig/pickupQuestTemplates",
+            "inverse" : true
+        },
+        {
+            "op" : "add",
+            "path" : "/itemConfig/pickupQuestTemplates",
+            "value" : []
+        }
+    ],
+    [
+        {
+            "op" : "add",
+            "path" : "/itemConfig/pickupQuestTemplates/-",
+            "value" : "mwhaddon_pOR_entry_fireknight"
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+{
+  "name" : "mwhaddon_arcana_collection_weapon_trinity",
+  "title" : "Forge of Stars - Trinity",
+  "type" : "item",
+
+  "collectables" : {
+    "solar_axe_1" : {
+      "order" : 1,
+      "item" : "solar_axe_1"
+    },
+    "solar_lance_1" : {
+      "order" : 2,
+      "item" : "solar_lance_1"
+    },
+    "solar_shotgun_1" : {
+      "order" : 3,
+      "item" : "solar_shotgun_1"
+    },
+    "solar_lance_2" : {
+      "order" : 4,
+      "item" : "solar_lance_2"
+    },
+    "azure_broadsword_1" : {
+      "order" : 5,
+      "item" : "azure_broadsword_1"
+    },
+    "azure_pistol_1" : {
+      "order" : 6,
+      "item" : "azure_pistol_1"
+    },
+    "azure_pistol_2" : {
+      "order" : 7,
+      "item" : "azure_pistol_2"
+    },
+    "azure_machinePistol_1" : {
+      "order" : 8,
+      "item" : "azure_machinePistol_1"
+    },
+    "azure_machinePistol_2" : {
+      "order" : 9,
+      "item" : "azure_machinePistol_2"
+    },
+    "azure_machinePistol_3" : {
+      "order" : 10,
+      "item" : "azure_machinePistol_3"
+    },
+    "azure_assaultRifle_1" : {
+      "order" : 11,
+      "item" : "azure_assaultRifle_1"
+    },
+    "azure_assaultRifle_2" : {
+      "order" : 12,
+      "item" : "azure_assaultRifle_2"
+    },
+    "azure_shotgun_1" : {
+      "order" : 13,
+      "item" : "azure_shotgun_1"
+    },
+    "azure_sniperRifle_1" : {
+      "order" : 14,
+      "item" : "azure_sniperRifle_1"
+    },
+    "lunar_dagger_1" : {
+      "order" : 15,
+      "item" : "lunar_dagger_1"
+    },
+    "lunar_katana_1" : {
+      "order" : 16,
+      "item" : "lunar_katana_1"
+    },
+    "lunar_katana_2" : {
+      "order" : 17,
+      "item" : "lunar_katana_2"
+    },
+    "mwhaddon_ankhuquest_acma" : {
+      "order" : 18,
+      "item" : "mwhaddon_ankhuquest_acma"
+    }
+  }
+}

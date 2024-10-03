@@ -1,0 +1,97 @@
+{
+  "name" : "arcana_collection_artifact",
+  "title" : "Milia Arma",
+  "type" : "item",
+
+  "collectables" : {
+
+    "artifact_wand_glorious" : {
+      "order" : 1,
+      "item" : "artifact_wand_glorious"
+    },
+    "artifact_doubleBlade_eternity" : {
+      "order" : 2,
+      "item" : "artifact_doubleBlade_eternity"
+    },
+    "artifact_bow_tempest" : {
+      "order" : 3,
+      "item" : "artifact_bow_tempest"
+    },
+    "artifact_staff_corrodingElm" : {
+      "order" : 4,
+      "item" : "artifact_staff_corrodingElm"
+    },
+    "artifact_staff_duality" : {
+      "order" : 5,
+      "item" : "artifact_staff_duality"
+    },
+    "artifact_orb_grandCross" : {
+      "order" : 6,
+      "item" : "artifact_orb_grandCross"
+    },
+    "mwhaddon_armblade_thunderbolt" : {
+      "order" : 7,
+      "item" : "mwhaddon_armblade_thunderbolt"
+    },
+    "mwhaddon_submachineGun_eschatonSeeker" : {
+      "order" : 8,
+      "item" : "mwhaddon_submachineGun_eschatonSeeker"
+    },
+    "artifact_battlestaff_binahTyr" : {
+      "order" : 9,
+      "item" : "artifact_battlestaff_binahTyr"
+    },
+    "artifact_blastRifle_neonGenesis" : {
+      "order" : 10,
+      "item" : "artifact_blastRifle_neonGenesis"
+    },
+    "artifact_battlestaff_chronologia" : {
+      "order" : 11,
+      "item" : "artifact_battlestaff_chronologia"
+    },
+    "artifact_wand_idunsBlessing" : {
+      "order" : 12,
+      "item" : "artifact_wand_idunsBlessing"
+    },
+    "artifact_orb_perpetuityEye" : {
+      "order" : 13,
+      "item" : "artifact_orb_perpetuityEye"
+    },
+    "solar_glaive_1" : {
+      "order" : 14,
+      "item" : "solar_glaive_1"
+    },
+    "artifact_staff_solarron" : {
+      "order" : 15,
+      "item" : "artifact_staff_solarron"
+    },
+    "artifact_lance_astrifer" : {
+      "order" : 16,
+      "item" : "artifact_lance_astrifer"
+    },
+    "artifact_katana_mikazuki" : {
+      "order" : 17,
+      "item" : "artifact_katana_mikazuki"
+    },
+    "mwhaddon_blastRifle_tsukitsune" : {
+      "order" : 18,
+      "item" : "mwhaddon_blastRifle_tsukitsune"
+    },
+    "artifact_magiblade_trayodhatava" : {
+      "order" : 19,
+      "item" : "artifact_magiblade_trayodhatava"
+    },
+    "mwhaddon_calloway" : {
+      "order" : 20,
+      "item" : "mwhaddon_calloway"
+    },
+    "artifact_greatspear_luxiant" : {
+      "order" : 21,
+      "item" : "artifact_greatspear_luxiant"
+    },
+    "mwhaddon_ankhuquest_mobiusTunnel" : {
+      "order" : 22,
+      "item" : "mwhaddon_ankhuquest_mobiusTunnel"
+    }
+  }
+}

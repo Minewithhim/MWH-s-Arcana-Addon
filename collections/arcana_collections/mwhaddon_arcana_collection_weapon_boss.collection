@@ -1,0 +1,56 @@
+{
+  "name" : "mwhaddon_arcana_collection_weapon_boss",
+  "title" : "Forge of Stars - Monarch",
+  "type" : "item",
+
+  "collectables" : {
+    "arcana_boss_cosmoNemesis_assaultRifle_1" : {
+      "order" : 1,
+      "item" : "arcana_boss_cosmoNemesis_assaultRifle_1"
+    },
+    "arcana_boss_cosmoNemesis_blastRifle_1" : {
+      "order" : 2,
+      "item" : "arcana_boss_cosmoNemesis_blastRifle_1"
+    },
+    "arcana_boss_cosmoNemesis_summonStaff_1" : {
+      "order" : 3,
+      "item" : "arcana_boss_cosmoNemesis_summonStaff_1"
+    },
+    "arcana_boss_cosmoNemesis_wand_1" : {
+      "order" : 4,
+      "item" : "arcana_boss_cosmoNemesis_wand_1"
+    },
+    "arcana_boss_evolapis_broadsword_1" : {
+      "order" : 5,
+      "item" : "arcana_boss_evolapis_broadsword_1"
+    },
+    "arcana_boss_evolapis_spear_1" : {
+      "order" : 6,
+      "item" : "arcana_boss_evolapis_spear_1"
+    },
+    "arcana_boss_evolapis_summonStaff_1" : {
+      "order" : 7,
+      "item" : "arcana_boss_evolapis_summonStaff_1"
+    },
+    "mwhaddon_aeonFreezer" : {
+      "order" : 8,
+      "item" : "mwhaddon_aeonFreezer"
+    },
+    "mwhaddon_execration_broadsword" : {
+      "order" : 9,
+      "item" : "mwhaddon_execration_broadsword"
+    },
+    "mwhaddon_execration_flail" : {
+      "order" : 10,
+      "item" : "mwhaddon_execration_flail"
+    },
+    "mwhaddon_execration_assaultRifle" : {
+      "order" : 11,
+      "item" : "mwhaddon_execration_assaultRifle"
+    },
+    "mwhaddon_execration_flamethrower" : {
+      "order" : 12,
+      "item" : "mwhaddon_execration_flamethrower"
+    }
+  }
+}

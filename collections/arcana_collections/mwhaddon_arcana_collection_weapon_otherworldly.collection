@@ -1,0 +1,12 @@
+{
+  "name" : "mwhaddon_arcana_collection_weapon_otherworldly",
+  "title" : "Marve Armo",
+  "type" : "item",
+
+  "collectables" : {
+    "mwhaddon_wand_shadestrophe" : {
+      "order" : 1,
+      "item" : "mwhaddon_wand_shadestrophe"
+    }
+  }
+}

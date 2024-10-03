@@ -1,0 +1,21 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_2",
+  "title" : "Why Ancient Essence Matters",
+  "description" : "A book about why Ancient Essence is needed, seems to be circulated only in Horizon Fleet.",
+  "icon" : "mwhaddon_codex_horizonMission_2.png",
+  "contentPages" : [
+    "The importance of using a new source of energy far better than Erchius, presumably, does not need to be re-emphasized here. Thus, some of us have set our sights on those elemental essence, whose mysterious and inexplicable power they believe can be a reliable substitute for Erchius.",
+    "Unfortunately, most regular essences do not necessarily satisfy our needs. Regular elemental Essence like Fire or Ice ones are way too inefficient, while upper ones like Arcane or Superstorm ones are too expensive to convert. The situation ultimately leads to two different programmes.",
+    "The first one is to exploit Solar, Lunar and Azure essence, aka celestial elements, all of which can be largely harvested in Celestial Corridors.
+However, stabilizing entrance for a Celestial Corridor has been proved to be wasteful. There's little consumption at first, but as time grows, each additional period of time increases the energy consumption in geometrical multiples.",
+"Once an entrance exhausts its energy, it simply vanishes, making it disposable. Looking for more available entrances seems to be a reasonable way. But it's notable that most corridor entrances are either guarded by other factions, or lost in the river of time.",
+"The other way is to use Ancient Essence, which is somehow related to Erchius.
+In most times our people don't value these essences, and just treat them as byproducts of what we've unearthed in our pursuit of Ancient Artifacts. That's obviously wrong. Ancient Essence is substantially a very efficient energy source, and given our operations, we don't even need to specialize in harvesting Ancient Essence to get a large reserve of it.",
+"Moreover, connections between Ancient Essence and Erchius makes it easy to adapt our existing power units for new energy source.
+That's the reason I urge you guys to keep all Ancient Essence you've got in your operations as much as possible, and send them to our base. For the great cause of Horizon, all of these are crucial."
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

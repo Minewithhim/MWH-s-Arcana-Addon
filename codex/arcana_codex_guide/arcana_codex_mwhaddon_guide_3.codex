@@ -1,0 +1,81 @@
+{
+  "id" : "arcana_codex_mwhaddon_guide_3",
+  "title" : "GEG - ^yellow;Superstorm Stars^reset;",
+  "description" : "'Galaxy Exploration Guide' series by Ankhu. This one is about Superstorm Stars.",
+  "icon" : "arcana_codex_mwhaddon_guide.png",
+  "contentPages" :
+  [
+"^orange;Superstorm stars^white; are one of the stars infused by what we Arcanian called 'Elements', with a purple appearance. Recommend to explore when you have completed your exploration in Illuminated Stars.
+Nourished by ^orange;Superstorm Essence^white;, Superstorm stars feature six different kind of unique planets: ^#9c36cb;Superstorm Expanse^white;, ^#ffb3eb;Neon Sea^white;, ^#bea04d;Stahlern Badland^white;, ^#d1a733;Timeless^white;, ^#ff993d;Automated^white; and ^#f3ff92;Viridescent^white;.
+",
+
+
+"All of these planets will have ^orange;Supercharged^white; on explorers, insanely lose their lives. Respective protection methods, such as EPP, is required to nullify the effect.
+",
+
+
+"^#5a4f6e;Galvasteel^white; can be found underground in most ^orange;Superstorm stars^white;' planets, which is mostly used in industrial production. 
+",
+
+
+"^#9c36cb;Superstorm Expanse^white;
+
+^#9c36cb;Superstorm Expanse^white; is the most inhabited planet among Superstorm stars with countless cyberpunk skyscrapers.
+^#9c36cb;Electrolite Ores^white; represent the ores of the planet and can be melt into ^orange;Electrolite Superstones^white;, a kind of important material.
+",
+
+
+"In addition to ^yellow;buildings owned by Megacorps like Orion^white;, it's also worth pointing out that some ^yellow;strange floating structures^white; are witnessed there, where many rhombus rooms irregularly connected to each other.
+",
+
+
+"^#ffb3eb;Neon Sea^white;
+
+^#ffb3eb;Neon Sea^white; is a purple marine planet made up of ^orange;Neon Water^white;, the main source of ^orange;Electric Essence^white;.
+Abundant ^#9c36cb;Electrolite Ores^white; can also be found here.
+",
+
+
+"^#bea04d;Stahlern Badlands^white;
+
+As its name suggests, the ^#bea04d;Stahlern Badland^white; is a rusty planet, a paradise for dangerous scavengers, bandits and mercenaries. 
+The weaponary they use requires a native mineral called ^#bea04d;Verrostin Ore^white;.
+",
+
+
+"^#d1a733;Timeless^white;
+
+^#d1a733;Timeless^white; is literally a planet of no time. Countless spikes of brown and blue pierce the entire land.
+Beneath the earth are blue ^#27b2ec;Raw Diathryliums^white;, a kind of rare ores that can only be found here.
+",
+
+
+"There is a long-standing scholastic consensus on this point that every ^#d1a733;Timeless^white; planet has a clocktower on it, at which top an ^cyan;Aeon Timepiece^white; can be found. Yet many people still argue whether ^cyan;Aeon Timepiece^white; is an incarnation of Aeon's golden lights till today.
+",
+
+
+"^#ff993d;Automated^white;
+
+^#ff993d;Automated^white; are planets belong to the Titancorp. Just like every other Titancorp's planet, these gray planets are terraformed by Workshop's E.C.O and occupied by unwelcoming Titancorp clerks. But gangs like ^yellow;Anarkyons^white; are also spotted there sometimes.
+",
+
+
+"Most valuable resources in these planets are storaged in the foundries of Titancorp with the exception of ^#ff993d;Raw Dustriums^white;, which can be found in planets' terrain.
+",
+
+
+"^#f3ff92;Viridescent^white;
+
+^#f3ff92;Viridescent^white; are poisoning planets with a chartreuse color. One may burn to death by ^orange;Viridescent Acid^white; there before killed by the frequent acid rain. Another ideal places for the ^yellow;Anarkyons^white; gang.
+Occasional ^#bea04d;Corrodium Ores^white; can be found among black rocks and green soils.
+",
+
+
+"It is very intriguing that those highly-corrosive ^#f3ff92;Viridescent^white; are like to be the only place to find ^yellow;Gelsemis^white;. They are quite friendly and, surprisingly, full of wisdom. The famous Luye also came from ^#f3ff92;Viridescent^white;, whose speciality is Viridescent Tea bag.
+"
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 1000
+  }
+}

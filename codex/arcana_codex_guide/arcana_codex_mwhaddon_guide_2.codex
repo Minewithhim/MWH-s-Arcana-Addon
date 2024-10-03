@@ -1,0 +1,56 @@
+{
+  "id" : "arcana_codex_mwhaddon_guide_2",
+  "title" : "GEG - ^yellow;Illuminated Stars^reset;",
+  "description" : "'Galaxy Exploration Guide' series by Ankhu. This one is about Illuminated Stars.",
+  "icon" : "arcana_codex_mwhaddon_guide.png",
+  "contentPages" :
+  [
+"^orange;Illuminated stars^white; are one of the stars infused by what we Arcanian called 'Elements', with a pale appearance. They are the second most recommended stars to explore after Arcane Stars.
+Nurtured by ^orange;Illuminated Essence^white;, Illuminated stars feature four different kind of unique planets: ^#8C8D90;Illuminated^white;, ^#D63BF2;Desolate^white;, ^#09A9AB;Evoaquatic^white; and ^#D82C4C;Animus^white;.
+",
+
+
+"All of these planets will have ^orange;Radiance^white; on explorers, increasingly lose their lives. Respective protection methods, such as EPP, is required to nullify the effect.
+",
+
+
+"^#8C8D90;Illuminated^white;
+
+^#8C8D90;Illuminated^white; is the most important and representative planet among Illuminated stars, covered by exotic and pale landscape.
+Faded ^#8C8D90;Holosium Fragments^white; and emerald ^#6AC57D;Renatine Fragments^white; fill the earth of Illuminated planet. The former can be melt into ^orange;Holosium Bars^white; while the latter into ^orange;Renatine Crystals^white;, both of which are important materials.
+",
+
+
+"In addition, this is the only place to locate ^orange;Illuminated Water^white;, one source of ^orange;Darklight Resins^white;.
+",
+
+
+"^#D63BF2;Desolate^white;
+
+^#D63BF2;Desolate^white; is quite a deadly planet. Dangerous cosmic monsters sweep the lifeless land of ever-lasting night in flocks, let alone those gruesome ^#D03AD7;Horizon Fleets^white;.
+Speaking of ^#D03AD7;Horizon Fleets^white;, the main materials they use in their armory are ^orange;Necroium Bars^white; melted from ^#973DC5;Necroium Fragments^white; which widely present beneath the surface of ^#D63BF2;Desolate^white;.
+",
+
+
+"^#09A9AB;Evoaquatic^white;
+
+^#09A9AB;Evoaquatic^white; is a comforting ecosystem of yellow and green, colonized by various plants. You may even find a cave filled with giant fluorescent spikes and poptops.
+Besides, ^#ADA729;Morphosis Shards^white; are hidden in the soil there, which display a high degree of affinity for a ^cyan;hypertoxic abominationr^white; created by Ecolife.
+",
+
+
+"^#D82C4C;Animus^white;
+
+^#D82C4C;Animus^white; is an unpleasant planet, with few blue crystal trunks buried among crimson trees.
+The ores featured here are ^#C31C2C;Anima Shards^white;, which, as well, can attract a ^cyan;flaming monster^white;'s attention.
+",
+
+
+"Another notably rare ore you can find here is ^#D53434;Avostone^white;, a red crystal widely used by Avians and Exousians.
+"
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 1000
+  }
+}

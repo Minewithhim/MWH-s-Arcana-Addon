@@ -1,0 +1,62 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/effects/organic/hit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/organic/stronghit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/organic/kill/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/robotic/hit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/robotic/stronghit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/robotic/kill/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/wooden/hit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/wooden/stronghit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/wooden/kill/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/stone/hit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/stone/stronghit/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	},
+	{
+		"op" : "replace",
+		"path" : "/effects/stone/kill/sounds",
+		"value" : [ "/sfx/gun/impact_plasma.ogg" ]
+	}
+]

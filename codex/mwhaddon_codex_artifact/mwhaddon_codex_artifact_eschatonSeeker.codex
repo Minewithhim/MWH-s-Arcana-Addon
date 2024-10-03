@@ -1,0 +1,23 @@
+{
+  "id" : "mwhaddon_codex_artifact_eschatonSeeker",
+  "title" : "Buy GMS T9 SMG now!",
+  "description" : "Leaflet of Eschaton Seeker, some texts seems to be artificially blanked out.",
+  "icon" : "leaflet.png",
+  "contentPages" : [
+"General Multi-use Steelblade Type XI Submachine Gun, or GMS T9 SMG in short, is developed by ^red;[UNDISTINGUISHABLE]^reset; Ltd. only for the greatest trailblazer in the galaxy like you!",
+
+"Equiping with the most advanced energy conversion system designed by Dr.^red;[UNDISTINGUISHABLE]^reset;, GMS T9 SMG consume NO energy at all to fire! Pour your unlimited fury on your foes!",
+
+"For those who pursue lethality, GMS T9 SMG also provides another function to load enhanced bullets! 
+Enhanced bullets are even deadlier as they can pierce and explode! But always remember, you only have a total of 50 ammo regardless of your energy, so keep focused.",
+
+"Component like Red dot sight and flashlight are attached to GMS T9 SMG as well for your convenience!",
+
+"^yellow;(That's the end of the leaflet. You're pretty sure it's missing a few pages, but you're unlikely to find them.)"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 100
+  }
+}

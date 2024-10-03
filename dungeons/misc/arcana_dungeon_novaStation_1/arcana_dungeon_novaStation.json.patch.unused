@@ -1,0 +1,35 @@
+//我说这是全宇宙最天才的地牢修改方法，谁支持谁反对
+[
+    {
+        "op" : "add",
+        "path" : "/layers/5/objects/-",
+        "value" : {
+            "height":8,
+            "id":1620,//随便填的，希望不会撞，虽然我也不知道撞了会发生啥
+            "name":"",
+            "properties":[
+                {
+                    "name":"npc",
+                    "type":"string",
+                    "value":"human"
+                }, 
+                {
+                    "name":"seed",
+                    "type":"string",
+                    "value":"287"
+                }, 
+                {
+                    "name":"typeName",
+                    "type":"string",
+                    "value":"mwhaddon_npc_exousia_generalFalke"
+                }
+            ],
+            "rotation":0,
+            "type":"",
+            "visible":true,
+            "width":8,
+            "x":984,
+            "y":1032
+        }
+    }
+]

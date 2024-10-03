@@ -1,0 +1,61 @@
+{
+  "name" : "arcana_collection_essence",
+  "title" : "Master Alchemist",
+  "type" : "item",
+
+  "collectables" : {
+
+    "arcana_essence_fireEssence" : {
+      "order" : 1,
+      "item" : "arcana_essence_fireEssence"
+    },
+    "arcana_essence_iceEssence" : {
+      "order" : 2,
+      "item" : "arcana_essence_iceEssence"
+    },
+    "arcana_essence_electricEssence" : {
+      "order" : 3,
+      "item" : "arcana_essence_electricEssence"
+    },
+    "arcana_essence_poisonEssence" : {
+      "order" : 4,
+      "item" : "arcana_essence_poisonEssence"
+    },
+    "arcana_essence_intimaEssence" : {
+      "order" : 5,
+      "item" : "arcana_essence_intimaEssence"
+    },
+    "arcana_essence_vileEssence" : {
+      "order" : 6,
+      "item" : "arcana_essence_vileEssence"
+    },
+    "arcana_essence_solarEssence" : {
+      "order" : 7,
+      "item" : "arcana_essence_solarEssence"
+    },
+    "arcana_essence_azureEssence" : {
+      "order" : 8,
+      "item" : "arcana_essence_azureEssence"
+    },
+    "arcana_essence_lunarEssence" : {
+      "order" : 9,
+      "item" : "arcana_essence_lunarEssence"
+    },
+    "arcana_essence_tripolarEssence" : {
+      "order" : 10,
+      "item" : "arcana_essence_tripolarEssence"
+    },
+    "arcana_essence_vermilionEssence" : {
+      "order" : 11,
+      "item" : "arcana_essence_vermilionEssence"
+    },
+    "arcana_essence_lightEssence" : {
+      "order" : 12,
+      "item" : "arcana_essence_lightEssence"
+    },
+    "arcana_essence_mirageEssence" : {
+      "order" : 13,
+      "item" : "arcana_essence_mirageEssence"
+    }
+  }
+}

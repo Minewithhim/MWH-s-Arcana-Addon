@@ -1,0 +1,271 @@
+{
+  "muteSfx" : true,
+  "muteMusic" : false,
+  "skippable" : true,
+  "letterbox" : false,
+  "backgroundColor" : [0, 0, 0, 255],
+  "backgroundFadeTime" : 0.2,
+
+  "panels" : [
+// -------------------------------- pic 1st
+    {
+      "startTime" : 1,
+      "endTime" : 8,
+      "drawables" : [
+        {
+          "image" : "/cinematics/mwhaddon/mwhaddon_pOr_intro/1.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 0.5,
+          "position" : [500, 340]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 6,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 6.5,
+          "alpha" : 0
+        }
+      ]
+    },
+
+
+// ------------------ radio message popup background
+    {
+      "startTime" : 1,
+      "endTime" : 24,
+      "drawables" : [
+        {
+          "image" : "/cinematics/radiomessagebg.png:<frame>"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [480, 55],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 22.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 23,
+          "frame" : 12
+        }
+      ]
+    },
+
+// ----------------- first radio message
+    {
+      "startTime" : 2.0,
+      "endTime" : 8.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/soundonly.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "text" : "Pantheon of Recollection, as its name suggests, is a place of \"memory\". Here, you can ^green;recollect^reset; the most impressive journeys and enemies during your trips.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 214
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 55],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.0,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+
+      ]
+    },
+
+// -------------------------------- pic 2nd
+    {
+      "startTime" : 8,
+      "endTime" : 15,
+      "drawables" : [
+        {
+          "image" : "/cinematics/mwhaddon/mwhaddon_pOr_intro/2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 0.5,
+          "position" : [500, 340]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 6,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 6.5,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// -------------------- second radio message
+    {
+      "startTime" : 9.0,
+      "endTime" : 15.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/soundonly.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "text" : "I've set up a teleporter not far ahead. It's connected with your teleporter network, so you can come back here any time as you want.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 214
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 55],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// -------------------------------- pic 3rd
+    {
+      "startTime" : 15,
+      "endTime" : 23,
+      "drawables" : [
+        {
+          "image" : "/cinematics/mwhaddon/mwhaddon_pOr_intro/3.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 0.5,
+          "position" : [500, 340]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 6,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 6.5,
+          "alpha" : 0
+        }
+      ]
+    },
+
+//------------------------------- third radio message
+    {
+      "startTime" : 16.0,
+      "endTime" : 23.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/soundonly.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "text" : "I'll be right out front. If you're done, please come to me.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 214
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 55],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.0,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    }
+  ],
+
+
+
+  "audio" : [
+    {
+      "timecode" : 2.3,
+      "endTimecode" : 5.1,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 9.3,
+      "endTimecode" : 12.3,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 16.3,
+      "endTimecode" : 19,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    }
+  ]
+}

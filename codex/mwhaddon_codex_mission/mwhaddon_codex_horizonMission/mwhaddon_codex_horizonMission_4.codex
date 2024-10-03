@@ -1,0 +1,17 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_4",
+  "title" : "Warning Letter",
+  "description" : "A handwritten letter with many creases, warnings are in every word.",
+  "icon" : "mwhaddon_codex_horizonMission_3.png",
+  "contentPages" : [
+    "Four days, and everyday you told me you'd open that door very soon, but I haven't gotten to find even the slightest movement from that door in the last four days!",
+
+    "We're ALREADY way behind schedule, all because of YOUR VERY OWN negligence that those Exousian bastards raid our camp, and if we can't save any face by opening that fucking door, I can't even imagine how I should meet Ursa when I get to the factory!",
+
+    "And one more thing. Next time when I see you can't even keep your own badge, YOU WILL DEFINITELY GET YOUR ASS BACK TO BOOT CAMP."
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}

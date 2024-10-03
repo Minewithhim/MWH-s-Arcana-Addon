@@ -1,0 +1,97 @@
+{
+  "name" : "arcana_collection_weapon_arcane",
+  "title" : "Forge of Stars - Arcane",
+  "type" : "item",
+
+  "collectables" : {
+
+    "havencrest_broadsword_1" : {
+      "order" : 1,
+      "item" : "havencrest_broadsword_1"
+    },
+    "havencrest_shortbow_1" : {
+      "order" : 2,
+      "item" : "havencrest_shortbow_1"
+    },
+    "havencrest_machinePistol_1" : {
+      "order" : 3,
+      "item" : "havencrest_machinePistol_1"
+    },
+    "havencrest_assaultRifle_1" : {
+      "order" : 4,
+      "item" : "havencrest_assaultRifle_1"
+    },
+    "bleuark_assaultRifle_1" : {
+      "order" : 5,
+      "item" : "bleuark_assaultRifle_1"
+    },
+    "bleuark_spear_1" : {
+      "order" : 6,
+      "item" : "bleuark_spear_1"
+    },
+    "bleuark_wand_1" : {
+      "order" : 7,
+      "item" : "bleuark_wand_1"
+    },
+    "monarch_doubleBlade_1" : {
+      "order" : 8,
+      "item" : "monarch_doubleBlade_1"
+    },
+    "monarch_lance_1" : {
+      "order" : 9,
+      "item" : "monarch_lance_1"
+    },
+    "monarch_staff_1" : {
+      "order" : 10,
+      "item" : "monarch_staff_1"
+    },
+    "monarch_staff_2" : {
+      "order" : 11,
+      "item" : "monarch_staff_2"
+    },
+    "horizon_broadsword_1" : {
+      "order" : 12,
+      "item" : "horizon_broadsword_1"
+    },
+    "horizon_hammer_1" : {
+      "order" : 13,
+      "item" : "horizon_hammer_1"
+    },
+    "horizon_lance_1" : {
+      "order" : 14,
+      "item" : "horizon_lance_1"
+    },
+    "horizon_assaultRifle_1" : {
+      "order" : 15,
+      "item" : "horizon_assaultRifle_1"
+    },
+    "horizon_assaultRifle_2" : {
+      "order" : 16,
+      "item" : "horizon_assaultRifle_2"
+    },
+    "horizon_shotgun_1" : {
+      "order" : 17,
+      "item" : "horizon_shotgun_1"
+    },
+    "horizon_sniperRifle_1" : {
+      "order" : 18,
+      "item" : "horizon_sniperRifle_1"
+    }, 
+    "horizon_staff_1" : {
+      "order" : 19,
+      "item" : "horizon_staff_1"
+    },
+	  "avostone_wand_1" : {
+      "order" : 20,
+      "item" : "avostone_wand_1"
+    },
+	  "avostone_lance_1" : {
+      "order" : 21,
+      "item" : "avostone_lance_1"
+    },
+	  "mwhaddon_ankhuquest_giftOfGabriel" : {
+      "order" : 22,
+      "item" : "mwhaddon_ankhuquest_giftOfGabriel"
+    }
+  }
+}

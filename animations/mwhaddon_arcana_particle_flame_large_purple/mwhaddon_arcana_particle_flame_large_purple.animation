@@ -1,0 +1,7 @@
+{
+  "frames" : "mwhaddon_arcana_particle_flame_large_purple.png",
+  "variants" : 1,
+  "frameNumber" : 12,
+  "animationCycle" : 0.6,
+  "offset" : [0, 0]
+}

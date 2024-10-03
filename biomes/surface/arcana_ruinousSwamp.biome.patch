@@ -1,0 +1,7 @@
+[
+	{
+		"op" : "add",
+		"path" : "/spawnProfile/groups/0/pool/-",
+		"value" : [ 1.0, "mwhaddon_execration_spawn_1" ]
+	}
+]

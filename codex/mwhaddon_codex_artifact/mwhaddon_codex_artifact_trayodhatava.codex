@@ -1,0 +1,24 @@
+{
+  "id" : "mwhaddon_codex_artifact_trayodhatava",
+  "title" : "^yellow;Artifact^reset; - ^#EDA946;Tray^#5144A5;o Dhā^#9AEFF5;tava^reset;",
+  "description" : "The story of an artifact.",
+  "icon" : "icon.png",
+  "contentPages" : [
+"In the language of a civilisation long vanished, Trayo Dhātava meant 'the three worlds'. 
+Since the very ancient times, countless monks have been travelling painstakingly through the vast ocean of the Celestial Tripolars, seeking only a mere instant's contact with the Cosmo. Nevertheless, none of them has ever succeeded, as none of them is really qualified in the so-called trinity.
+",
+
+"When THE threat of universe surged forth, some of them saw in themselves a more important path. With courage, patience and hope in their mind, they put all their life's learning, thinking and expertise into fusing the three essence into one in spite of the fact that this had never worked.
+
+Luckily, they did it.
+",
+
+"In that very moment, the three world responded them, and the trinity connected. For the first time, the Cosmo cast its glance at these insignificant mortals. And here came the Trayo Dhātava, the three worlds of mortals, essence and the Cosmo, the first Magna this universe ever had.
+"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 100
+  }
+}

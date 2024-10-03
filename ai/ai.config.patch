@@ -1,0 +1,11 @@
+[
+	{
+		"op" : "add",
+		"path" : "/species/gelsemis",
+		"value" : {
+			"aiFrames" : "arcanianAI.png",
+			"portraitFrames" : "portraits/arcanianportrait.png",
+			"staticFrames" : "staticarcanian.png"	
+		}
+	}
+]

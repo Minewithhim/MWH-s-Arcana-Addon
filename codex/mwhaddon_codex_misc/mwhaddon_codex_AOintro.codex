@@ -1,0 +1,24 @@
+{
+  "id" : "mwhaddon_codex_AOintro",
+  "title" : "Welcome to Astral Observatory!",
+  "description" : "A leaflet breifly introduces the Astral Observatory. Esther somehow took an extra one for you.",
+  "icon" : "mwhaddon_codex_AOintro.png",
+  "contentPages" : [
+    "^green;Welcome to Astral Observatory, traveller! ^reset;
+
+Astral Observatory is a comprehensive service station founded by Arcanian stargazers of the Great Library and open to all interstellar travellers located in a comfortable oasis near the Khnemnn Island on the Azure Desert of Sirius II. 
+",
+
+"In Astral Observatory you can experience the local Arcanian customs and culture, have your ship repaired in our repair dock, or enjoy a drink from the famous Atlantis Bar.
+
+The Archivist there is in charge of all the work in Astral Observatory, but they do take time to welcome every traveller who has the wish to pay a visit as well.
+",
+
+"^green;You can teleport to the Observatory from Galatic Atlas via your Quickbar Virtual Assistant or from registered ship teleporters."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 300
+  }
+}

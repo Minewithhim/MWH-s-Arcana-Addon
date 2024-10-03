@@ -1,0 +1,80 @@
+{
+  "id" : "arcana_codex_mwhaddon_guide_1",
+  "title" : "GEG - ^yellow;Arcane Stars^reset;",
+  "description" : "'Galaxy Exploration Guide' series by Ankhu. This one is about Arcane Stars.",
+  "icon" : "arcana_codex_mwhaddon_guide.png",
+  "contentPages" :
+  [
+"^orange;Arcane stars^white; are one of the stars infused by what we Arcanian called 'Elements', with a light blue appearance. These stars are relatively the mildest and are therefore the first ones recommended for exploration.
+Blessed by ^orange;Arcane Essence^white;, Arcane stars feature six different kind of unique planets: ^#EE8A45;Blistering^white;, ^#6189E3;Turbulent^white;, ^#7FAD23;Verdant^white;, ^#BCE279;Windswept^white;, ^#8EEFD6;Arcane^white; and ^#3ED0E8;Shining Sea^white;.
+",
+
+
+"^#8EEFD6;Arcane^white; and ^#3ED0E8;Shining Sea^white; will have ^orange;Arcane Drain^white; on explorers, preventing them from recovering energy. Respective protection method, such as EPP, is required to nullify the effect.
+",
+
+
+"^#8EEFD6;Arcane^white;
+
+^#8EEFD6;Arcane^white; is the most important and representative planet in Arcane stars. The planet is mainly covered by cyan forests filled with Arcane energy, but other mysterious landscapes can occasionally be found there as well. 
+The notable mineral here is ^#8EEFD6;Arcanium Ore^white; in the color of cyan, which can be used to craft basic Arcane equipments after being melted.
+",
+
+"You can also find some other landscapes in ^#8EEFD6;Arcane^white;, such as ^#f4d9a3;Desert^white; or ^#86a7e2;Tundra^white;, the latter biome is the only place to find the rare ore, ^#b7b7c0;Borealite^white;.
+",
+
+
+"^#EE8A45;Blistering^white;
+
+^#EE8A45;Blistering^white; is an orange red planet of scorched forests.
+The surface is full of ruins with various of loots, from ^orange;Magifire Crystals^white;, one of those elemental minerals that can be found beneath Blistering surface as well, to ^orange;Dry Plate^white;, a material that can only be looted from chests in Blistering.
+",
+
+
+"You may also find a huge sanctuary plunging straight into the ground. One has to turn on a switch to enter, yet doing so may cause the entrance to be closed and the lava to pour out. The sanctuary is filled with fire monsters and dangerous traps, so anyone who dares to enter it must have themselves perpared well.
+",
+
+"Rumor has it that there's also a kind of stone ruin in ^#EE8A45;Blistering^white;, filled with hot lava. Some of us associate it with some kind of ^orange;Glitch^white; legend, but I'm not sure there's really a connection.
+",
+
+
+"^#6189E3;Turbulent^white;
+
+^#6189E3;Turbulent^white; is a beautiful marine planet. Its seafloor is obiously different from normal ocean planets', as its is full of cracks.
+You may notice the ^orange;Pink Aquamarines^white;, the specialties beneath the ground by their pink appearance. They are also one of those elemental minerals.
+",
+
+
+"^#7FAD23;Verdant^white;
+
+Green ^#7FAD23;Verdant^white; is the home of great trees and thick vines with dense vegetation.
+Some complex ruins can occasionally be found beneath the soil with the loot of ^orange;Florastones^white;, another elemental minerals. Oddly enough, these stones can be naturally found nowhere for unknown reason.
+",
+
+
+"Remarkably you can also find some sort of temple here, buried underground as well, with two locked doors at the entrance to the temple. I'm pretty sure the key is hidden beneath the temple, yet that place has all the poisonous monsters. Perhaps only those brave enough to step inside will be able to uncover the secrets of the treasure behind the doors.
+",
+
+
+"^#BCE279;Windswept^white;
+
+As the name suggests, ^#BCE279;Windswept^white; is a very windy meadow. 
+Lavender ^orange;Aviostones^white;, the last elemental minerals, can be found under the surface or in the ruins.
+",
+
+
+"There's also a prodigious construction. Consisting of several floating towers, the construction is fraught with danger. Nobody knows who built these miracle buildings, however I'm quite sure about the existence of treasures at the top of it.
+",
+
+
+"^#3ED0E8;Shining Sea^white;
+
+^#3ED0E8;Shining Sea^white; is another marine planet which made up of ^orange;Arcane Water^white;, the main source of ^orange;Magiflux Extract^white;.
+In addition to ^#8EEFD6;Arcanium Ore^white;, ^yellow;Atla Gold^white; is also a mineral native to the islands and seabed here.
+"
+  ],
+    "itemConfig" : {
+    "rarity" : "essential",
+    "price" : 1000
+  }
+}

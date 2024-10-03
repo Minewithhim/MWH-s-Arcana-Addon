@@ -1,0 +1,34 @@
+{
+  "id" : "mwhaddon_codex_receipt_execration",
+  "title" : "Receipt - Execration",
+  "description" : "Information about the design of Execration.",
+  "icon" : "mwhaddon_codex_receipt_execration.png",
+  "contentPages" : [
+    "^yellow;Execration, Battle Machine of the Horizon^reset;
+
+Designer : Minewithhim (MWH)
+Programmer : Minewithhim (MWH)
+Texture Designer : kumochan, Rusteel
+
+Music : ^green;Boss Boss Boss^reset; from video game ^orange;Katana Zero^reset;
+",
+
+"1st Edition
+Execration was meant to be an enhanced version of Dreadwing from the very beginning. In the early stages of development, its texture was a recolored version of Exemplar, a hidden boss from Letheia Expanded by SVA that uses exactly the same AI as Dreadwing does.
+Some of its skills were designed with reference to Yharon from Calamity mod of Terraria, and Void Deformity, an unavailable boss from Arcana itself.
+",
+
+"A combination of Evolapis and Cosmo Nemesis was planned before the idea of Execration being put forward. The summoning item ^orange;Price of Prosperity^reset; (unobtainable now) was its legacy. The plan was dropped due to my incapability on understanding how behavior works.
+",
+
+"2nd Edition
+One year after Execration was introduced, I picked up Starbound modding again. So Execration got updated as well. With my new spriter Rusteel's help, Execration got a new intro and death animation, which I think was pretty good.
+I also made it more melee-friendly, that's why it's reinforcement attack was greatly remade.
+"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "legendary",
+    "price" : 100
+  }
+}

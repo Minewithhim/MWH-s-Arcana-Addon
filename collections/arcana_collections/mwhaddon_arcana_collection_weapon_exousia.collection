@@ -1,0 +1,104 @@
+{
+  "name" : "mwhaddon_arcana_collection_weapon_exousia",
+  "title" : "Forge of Stars - Unitary",
+  "type" : "item",
+
+  "collectables" : {
+    "exousia_police_assaultRifle_1" : {
+      "order" : 1,
+      "item" : "exousia_police_assaultRifle_1"
+    },
+    "exousia_police_blastRifle_1" : {
+      "order" : 2,
+      "item" : "exousia_police_blastRifle_1"
+    },
+    "exousia_police_pistol_1" : {
+      "order" : 3,
+      "item" : "exousia_police_pistol_1"
+    },
+    "exousia_police_shotgun_1" : {
+      "order" : 4,
+      "item" : "exousia_police_shotgun_1"
+    },
+    "artifact_lance_exNihilo" : {
+      "order" : 5,
+      "item" : "artifact_lance_exNihilo"
+    },
+    "exousia_imperialArmy_1_assaultRifle_1" : {
+      "order" : 6,
+      "item" : "exousia_imperialArmy_1_assaultRifle_1"
+    },
+    "exousia_imperialArmy_1_assaultRifle_2" : {
+      "order" : 7,
+      "item" : "exousia_imperialArmy_1_assaultRifle_2"
+    },
+    "exousia_imperialArmy_1_broadsword_1" : {
+      "order" : 8,
+      "item" : "exousia_imperialArmy_1_broadsword_1"
+    },
+    "exousia_imperialArmy_1_broadsword_2" : {
+      "order" : 9,
+      "item" : "exousia_imperialArmy_1_broadsword_2"
+    },
+    "exousia_imperialArmy_1_pistol_1" : {
+      "order" : 10,
+      "item" : "exousia_imperialArmy_1_pistol_1"
+    },
+    "exousia_imperialArmy_1_shotgun_1" : {
+      "order" : 11,
+      "item" : "exousia_imperialArmy_1_shotgun_1"
+    },
+    "exousia_imperialArmy_1_sniperRifle_1" : {
+      "order" : 12,
+      "item" : "exousia_imperialArmy_1_sniperRifle_1"
+    },
+    "exousia_imperialArmy_2_battleaxe_1" : {
+      "order" : 13,
+      "item" : "exousia_imperialArmy_2_battleaxe_1"
+    },
+    "exousia_imperialArmy_2_broadsword_1" : {
+      "order" : 14,
+      "item" : "exousia_imperialArmy_2_broadsword_1"
+    },
+    "exousia_imperialArmy_2_grenadeLauncher_1" : {
+      "order" : 15,
+      "item" : "exousia_imperialArmy_2_grenadeLauncher_1"
+    },
+    "exousia_imperialArmy_2_pistol_1" : {
+      "order" : 16,
+      "item" : "exousia_imperialArmy_2_pistol_1"
+    },
+    "exousia_imperialArmy_3_katana_1" : {
+      "order" : 17,
+      "item" : "exousia_imperialArmy_3_katana_1"
+    },
+    "exousia_imperialArmy_3_lance_1" : {
+      "order" : 18,
+      "item" : "exousia_imperialArmy_3_lance_1"
+    },
+    "exousia_imperialArmy_3_sniperRifle_1" : {
+      "order" : 19,
+      "item" : "exousia_imperialArmy_3_sniperRifle_1"
+    },
+    "exousia_imperialArmy_3_sniperRifle_2" : {
+      "order" : 20,
+      "item" : "exousia_imperialArmy_3_sniperRifle_2"
+    },
+    "exousia_imperialArmy_3_sniperRifle_3" : {
+      "order" : 21,
+      "item" : "exousia_imperialArmy_3_sniperRifle_3"
+    },
+    "exousia_church_staff_1" : {
+      "order" : 22,
+      "item" : "exousia_church_staff_1"
+    },
+    "exousia_sovereign_katana_1" : {
+      "order" : 23,
+      "item" : "exousia_sovereign_katana_1"
+    },
+    "exousia_sovereign_katana_2" : {
+      "order" : 24,
+      "item" : "exousia_sovereign_katana_2"
+    }
+  }
+}

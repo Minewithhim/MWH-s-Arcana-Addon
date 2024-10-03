@@ -1,0 +1,112 @@
+{
+  "name" : "arcana_collection_weapon_elemental",
+  "title" : "Forge of Stars - Elemental",
+  "type" : "item",
+
+  "collectables" : {
+    "maple_dagger_1" : {
+      "order" : 1,
+      "item" : "maple_dagger_1"
+    },
+    "maple_hammer_1" : {
+      "order" : 2,
+      "item" : "maple_hammer_1"
+    },
+    "maple_katana_1" : {
+      "order" : 3,
+      "item" : "maple_katana_1"
+    },
+    "mwhaddon_maple_cannon_1" : {
+      "order" : 4,
+      "item" : "mwhaddon_maple_cannon_1"
+    },
+    "hephaestus_dagger_1" : {
+      "order" : 5,
+      "item" : "hephaestus_dagger_1"
+    },
+    "mwhaddon_hephaestus_flamethrower_1" : {
+      "order" : 6,
+      "item" : "mwhaddon_hephaestus_flamethrower_1"
+    },
+    "hephaestus_staff_1" : {
+      "order" : 7,
+      "item" : "hephaestus_staff_1"
+    },
+    "hephaestus_wand_1" : {
+      "order" : 8,
+      "item" : "hephaestus_wand_1"
+    },
+    "hephaestus_wand_2" : {
+      "order" : 9,
+      "item" : "hephaestus_wand_2"
+    },
+    "thalassa_dagger_1" : {
+      "order" : 10,
+      "item" : "thalassa_dagger_1"
+    },
+    "thalassa_spear_1" : {
+      "order" : 11,
+      "item" : "thalassa_spear_1"
+    },
+    "mwhaddon_thalassa_cannon_1" : {
+      "order" : 12,
+      "item" : "mwhaddon_thalassa_cannon_1"
+    },
+    "thalassa_beamCannon_1" : {
+      "order" : 13,
+      "item" : "thalassa_beamCannon_1"
+    },
+    "thalassa_spear_2" : {
+      "order" : 14,
+      "item" : "thalassa_spear_2"
+    },
+    "gaea_axe_1" : {
+      "order" : 15,
+      "item" : "gaea_axe_1"
+    },
+    "gaea_spear_1" : {
+      "order" : 16,
+      "item" : "gaea_spear_1"
+    },
+    "mwhaddon_gaea_flamethrower_1" : {
+      "order" : 17,
+      "item" : "mwhaddon_gaea_flamethrower_1"
+    },
+    "arcana_shield_floralShield" : {
+      "order" : 18,
+      "item" : "arcana_shield_floralShield"
+    },
+    "gaea_axe_2" : {
+      "order" : 19,
+      "item" : "gaea_axe_2"
+    },
+    "aeolus_axe_1" : {
+      "order" : 20,
+      "item" : "aeolus_axe_1"
+    },
+    "aeolus_spear_1" : {
+      "order" : 21,
+      "item" : "aeolus_spear_1"
+    },
+    "aeolus_shortbow_1" : {
+      "order" : 22,
+      "item" : "aeolus_shortbow_1"
+    },
+    "mwhaddon_aeolus_cannon_1" : {
+      "order" : 23,
+      "item" : "mwhaddon_aeolus_cannon_1"
+    },
+    "arcana_shield_arioforgedShield" : {
+      "order" : 24,
+      "item" : "arcana_shield_arioforgedShield"
+    },
+    "aeolus_shortbow_2" : {
+      "order" : 25,
+      "item" : "aeolus_shortbow_2"
+    },
+    "mwhaddon_ankhuquest_crystalLake" : {
+      "order" : 26,
+      "item" : "mwhaddon_ankhuquest_crystalLake"
+    }
+  }
+}

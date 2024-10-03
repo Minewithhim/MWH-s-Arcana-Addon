@@ -1,0 +1,117 @@
+{
+  "name" : "arcana_collection_weapon_stellar",
+  "title" : "Forge of Stars - Stellar",
+  "type" : "item",
+
+  "collectables" : {
+
+    "orion_assaultRifle_1" : {
+      "order" : 1,
+      "item" : "orion_assaultRifle_1"
+    },
+    "orion_broadsword_1" : {
+      "order" : 2,
+      "item" : "orion_broadsword_1"
+    },
+    "orion_greatsword_1" : {
+      "order" : 3,
+      "item" : "orion_greatsword_1"
+    },
+    "orion_rocketLauncher_1" : {
+      "order" : 4,
+      "item" : "orion_rocketLauncher_1"
+    },
+    "arcana_shield_voltaicShield" : {
+      "order" : 5,
+      "item" : "arcana_shield_voltaicShield"
+    },
+    "arcana_shield_ampliftShield" : {
+      "order" : 6,
+      "item" : "arcana_shield_ampliftShield"
+    },
+    "workshop_axe_1" : {
+      "order" : 7,
+      "item" : "workshop_axe_1"
+    },
+    "workshop_axe_4" : {
+      "order" : 8,
+      "item" : "workshop_axe_4"
+    },
+    "workshop_axe_2" : {
+      "order" : 9,
+      "item" : "workshop_axe_2"
+    },
+    "workshop_axe_3" : {
+      "order" : 10,
+      "item" : "workshop_axe_3"
+    },
+    "workshop_battleaxe_1" : {
+      "order" : 11,
+      "item" : "workshop_battleaxe_1"
+    },
+    "workshop_pistol_1" : {
+      "order" : 12,
+      "item" : "workshop_pistol_1"
+    },
+    "workshop_assaultRifle_1" : {
+      "order" : 13,
+      "item" : "workshop_assaultRifle_1"
+    },
+    "workshop_sniperRifle_1" : {
+      "order" : 14,
+      "item" : "workshop_sniperRifle_1"
+    },
+    "workshop_pistol_2" : {
+      "order" : 15,
+      "item" : "workshop_pistol_2"
+    },
+    "workshop_pistol_3" : {
+      "order" : 16,
+      "item" : "workshop_pistol_3"
+    },
+    "steelblades_broadsword_1" : {
+      "order" : 17,
+      "item" : "steelblades_broadsword_1"
+    },
+    "steelblades_assaultRifle_1" : {
+      "order" : 18,
+      "item" : "steelblades_assaultRifle_1"
+    },
+    "steelblades_shotgun_1" : {
+      "order" : 19,
+      "item" : "steelblades_shotgun_1"
+    },
+    "steelblades_sniperRifle_1" : {
+      "order" : 20,
+      "item" : "steelblades_sniperRifle_1"
+    },
+    "steelblades_blastRifle_1" : {
+      "order" : 21,
+      "item" : "steelblades_blastRifle_1"
+    },
+    "luye_glaive_1" : {
+      "order" : 22,
+      "item" : "luye_glaive_1"
+    },
+    "luye_moonBlade_1" : {
+      "order" : 23,
+      "item" : "luye_moonBlade_1"
+    },
+    "aeon_battleaxe_1" : {
+      "order" : 24,
+      "item" : "aeon_battleaxe_1"
+    },
+    "aeon_lance_1" : {
+      "order" : 25,
+      "item" : "aeon_lance_1"
+    },
+    "aeon_shortbow_1" : {
+      "order" : 26,
+      "item" : "aeon_shortbow_1"
+    },
+    "mwhaddon_ankhuquest_orthrus" : {
+      "order" : 27,
+      "item" : "mwhaddon_ankhuquest_orthrus"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id" : "mwhaddon_codex_horizonMission_1",
+  "title" : "Ship log #334",
+  "description" : "Recent log of the Horizon ship, looks like it was created just a little while ago.",
+  "icon" : "mwhaddon_codex_horizonMission_1.png",
+  "contentPages" : [
+    "Finally, made it in port. That's a lot more exhausting than I thought.
+The next freighter is hours away, I've got plenty of time. Maybe I can take a rest here before having dinner. The recuperation room here are said to have excellent environmental conditions.
+"
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+}
