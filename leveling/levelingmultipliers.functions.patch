@@ -1,0 +1,35 @@
+[
+    //矿奥附属太空怪物专用leveling
+    {
+        "op" : "add",
+        "path" : "/mwhaddon_levelMulitplier_spaceMonster_health",
+        "value" :   [ "linear", "clamp",
+            [0, 1.0],
+            [1, 1.0],
+            [2, 2.0],
+            [3, 3.5],
+            [4, 5.0],
+            [5, 7.0],
+            [6, 8.5],
+            [7, 9.5],
+            [8, 11.0],
+            [9, 12.0]
+        ]
+    },
+    {
+        "op" : "add",
+        "path" : "/mwhaddon_levelMulitplier_spaceMonster_damage",
+        "value" :   [ "linear", "clamp",
+            [0, 1.00],
+            [1, 1.00],
+            [2, 1.75],
+            [3, 3.50],
+            [4, 6.50],
+            [5, 12.0],
+            [6, 20.0],
+            [7, 25.0],
+            [8, 30.0],
+            [9, 36.0]
+        ]
+    }
+]

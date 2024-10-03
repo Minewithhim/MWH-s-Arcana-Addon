@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_bossChallenge_moltenKnight",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "mwhaddon_bossChallenge_moltenKnight" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_bossChallenge_moltenKnight",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_bossChallenge_moltenKnight.json" ]
+    }
+  ]
+}

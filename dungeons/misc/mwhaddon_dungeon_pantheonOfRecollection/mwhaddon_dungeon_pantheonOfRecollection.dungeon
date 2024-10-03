@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_dungeon_pantheonOfRecollection",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "mwhaddon_dungeon_pantheonOfRecollection" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_dungeon_pantheonOfRecollection",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_dungeon_pantheonOfRecollection.json" ]
+    }
+  ]
+}

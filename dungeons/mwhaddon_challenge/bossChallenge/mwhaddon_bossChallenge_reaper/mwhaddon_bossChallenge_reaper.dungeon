@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_bossChallenge_reaper",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "mwhaddon_bossChallenge_reaper" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_bossChallenge_reaper",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_bossChallenge_reaper.json" ]
+    }
+  ]
+}

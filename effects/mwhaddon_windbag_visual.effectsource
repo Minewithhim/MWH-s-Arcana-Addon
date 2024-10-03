@@ -1,0 +1,29 @@
+{
+  "kind" : "mwhaddon_windbag_visual",
+  "definition" : {
+    "duration" : 0.17,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "mwhaddon_windbag" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [  ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_bossChallenge_aeonTimepiece",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "mwhaddon_bossChallenge_aeonTimepiece" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_bossChallenge_aeonTimepiece",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_bossChallenge_aeonTimepiece.json" ]
+    }
+  ]
+}

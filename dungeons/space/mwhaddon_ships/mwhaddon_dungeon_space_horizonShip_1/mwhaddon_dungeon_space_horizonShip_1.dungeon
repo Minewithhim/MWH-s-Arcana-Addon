@@ -1,0 +1,154 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_dungeon_space_horizonShip_1",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "mwhaddon_dungeon_space_horizonShip_1" ],
+    "gravity" : 80,
+    "breathable" : true,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_dungeon_space_horizonShip_1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_dungeon_space_horizonShip_1.json" ]
+    },
+
+    // MONSTER GROUPS
+    {
+      "name" : "mwhaddon_space_horizon_smallMonsterGroup_1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_smallMonsterGroup_1.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_smallMonsterGroup_2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_smallMonsterGroup_2.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_smallMonsterGroup_3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_smallMonsterGroup_3.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_smallMonsterGroup_4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_smallMonsterGroup_4.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_smallMonsterGroup_5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_smallMonsterGroup_5.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_largeMonsterGroup_1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_largeMonsterGroup_1.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_largeMonsterGroup_2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_largeMonsterGroup_2.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_largeMonsterGroup_3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_largeMonsterGroup_3.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_horizon_largeMonsterGroup_4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/spacemonstergroup/mwhaddon_space_horizon_largeMonsterGroup_4.json" ],
+      "minimumThreatLevel" : 5,
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+
+    // HAZARD ZONE
+    {
+      "name" : "mwhaddon_space_hazard_horizon_1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/hazards/mwhaddon_space_hazard_horizon_1.json" ],
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_hazard_horizon_2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/hazards/mwhaddon_space_hazard_horizon_2.json" ],
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_hazard_horizon_3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/hazards/mwhaddon_space_hazard_horizon_3.json" ],
+      "chance" : 1,
+      "markDungeonId" : false
+    },
+    {
+      "name" : "mwhaddon_space_hazard_horizon_4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/spaceencounter/hazards/mwhaddon_space_hazard_horizon_4.json" ],
+      "chance" : 1,
+      "markDungeonId" : false
+    }
+  ]
+}

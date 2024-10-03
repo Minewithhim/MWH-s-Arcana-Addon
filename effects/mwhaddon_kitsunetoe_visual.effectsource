@@ -1,0 +1,29 @@
+{
+  "kind" : "mwhaddon_kitsunetoe_visual",
+  "definition" : {
+    "duration" : 0.01,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "mwhaddon_kitsunetoe_image" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [  ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

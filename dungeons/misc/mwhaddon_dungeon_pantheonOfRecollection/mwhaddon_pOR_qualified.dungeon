@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_pOR_qualified",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "mwhaddon_pOR_qualified" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_pOR_qualified",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_pOR_qualified.json" ]
+    }
+  ]
+}

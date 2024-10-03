@@ -1,0 +1,20 @@
+{
+  "kind" : "mwhaddon_arcana_particle_smoke_orion",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.03,
+    "loops" : true,
+    "start" : {
+      "particles" : [ ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "mwhaddon_arcana_particle_smoke_orion" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [ ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

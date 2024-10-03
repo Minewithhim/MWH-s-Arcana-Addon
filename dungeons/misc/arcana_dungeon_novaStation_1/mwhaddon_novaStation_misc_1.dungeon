@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "mwhaddon_novaStation_misc_1",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "mwhaddon_novaStation_misc_1" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mwhaddon_novaStation_misc_1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mwhaddon_novaStation_misc_1.json" ]
+    }
+  ]
+}
